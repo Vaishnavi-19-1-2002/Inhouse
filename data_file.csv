@@ -1,0 +1,2 @@
+_id,IPAddress,data,time
+{'$oid': '61d42a7251de0d9e1dc0a9c8'},192.168.187.239,"{'uname': 'abc', 'password': '123'}",{'$date': '2022-01-04T16:37:30.556Z'}
